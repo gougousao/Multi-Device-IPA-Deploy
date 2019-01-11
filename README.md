@@ -1,6 +1,6 @@
 # Multi-Device IPA Deploy
 
-1: git clone the repo and then cd to DepoloyIPA
+1: git clone the repo and then cd to new folder.
 
 2: run `sudo npm install -g ipa-deploy`
 
