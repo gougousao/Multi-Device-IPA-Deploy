@@ -13,6 +13,4 @@
 6: Add your resigned ipa to the DeployIPA folder.
 (you can rename your ipa to `resigned.ipa` or change the filename in deploy.sh)
 
-7: Edit devices.txt and add all of your UUIDs, one per line. Save.
-
-8: Run `./deploy.sh` in Terminal
+7: Run `./deploy.sh` in Terminal
