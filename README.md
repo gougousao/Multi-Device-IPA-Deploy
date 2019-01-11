@@ -1,4 +1,4 @@
-# DepoloyIPA
+# Multi-Device IPA Deploy
 
 1: git clone the repo and then cd to DepoloyIPA
 
