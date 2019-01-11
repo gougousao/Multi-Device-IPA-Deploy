@@ -8,9 +8,11 @@
 
 4: run `brew install libimobiledevice`
 
-5: run `chmod +x deploy.sh`
+5. run `brew install bash` (to update if need be)
 
-6: Add your resigned ipa to the DeployIPA folder.
+6: run `chmod +x deploy.sh`
+
+7: Add your resigned ipa to the DeployIPA folder.
 (you can rename your ipa to `resigned.ipa` or change the filename in deploy.sh)
 
-7: Run `./deploy.sh` in Terminal
+8: Run `./deploy.sh` in Terminal
