@@ -8,7 +8,7 @@
 
 4: run `brew install libimobiledevice`
 
-5. run `brew install bash` (to update if need be)
+5: run `brew install bash` (to update if need be)
 
 6: run `chmod +x deploy.sh`
 
